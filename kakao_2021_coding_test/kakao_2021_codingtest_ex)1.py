@@ -24,3 +24,4 @@ def solution(s):
           letter = ""
     return answer
 
+# https://programmers.co.kr/learn/courses/30/lessons/81301
